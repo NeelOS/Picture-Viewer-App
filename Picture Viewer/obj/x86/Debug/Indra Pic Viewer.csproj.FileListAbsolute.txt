@@ -1,0 +1,18 @@
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\bin\Debug\Indra Pic Viewer.exe
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\bin\Debug\Indra Pic Viewer.pdb
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\Indra_Pic_Viewer.Form1.resources
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\Indra_Pic_Viewer.Properties.Resources.resources
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\Indra Pic Viewer.exe
+C:\Users\INDRANEELA\AppData\Local\Temporary Projects\Indra Pic Viewer\obj\x86\Debug\Indra Pic Viewer.pdb
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\Indra Pic Viewer.exe
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\Indra Pic Viewer.pdb
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\bin\Debug\Indra Pic Viewer.exe
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\bin\Debug\Indra Pic Viewer.pdb
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\Indra_Pic_Viewer.Form1.resources
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\Indra_Pic_Viewer.Properties.Resources.resources
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\Indra Pic Viewer\Indra Pic Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
